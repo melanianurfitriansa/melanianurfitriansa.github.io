@@ -4,6 +4,192 @@
 
 @media screen and (max-width : 576px) {
 
+	.hero-tagline h1{
+		font-size: 25px;
+		width: 200px;
+	}
+
+	.img-hero {
+		width: 75%;
+		height: auto;
+	}
+
+	.img-accsent {
+		width: 30%;
+		height: auto;
+	}
+
+	.sudahterjual {
+		font-size: 12px;
+	}
+	.jumlahterjual {
+		font-size: 16px;
+	}
+
+	h2 {
+		font-size: 12px;
+	}
+
+	h3 {
+		width: 250px;
+		font-size: 24px;
+	}
+
+	.col-6 p {
+		width: 250px;
+		font-size: 14px;
+	}
+
+	.foreveryone-section2 h2{
+		font-size: 12px;
+	}
+
+	.foreveryone-section2 h2{
+		font-size: 12px;
+	}
+	
+	.foreveryone-section2 h5{
+		width: 250px;
+		font-size: 24px;
+	}
+
+	.foreveryone-section2 p {
+		width: 500px;
+		font-size: 14px;
+	}
+
+	.img-benefit1 {
+		width: 300px;
+		height: auto;
+	}
+
+	.benefit-section1 h3 {
+		width: 300px;
+		font-size: 24px;
+	}
+
+	.benefit-section1 p {
+		font-size: 16px;
+	}
+
+	.img-benefit2{
+		width: 300px;
+		height: auto;
+	}
+
+	.benefit-benefit2 h2{
+		font-size: 12px;
+	}
+
+	.benefit-section2 h3{
+		width: 250px;
+		font-size: 24px;
+	}
+
+	.card-livedemo {
+		width: 250px;
+		height: auto;
+	}
+
+	.card-livedemo .card-text {
+		width: 170px;
+	}
+
+	#price h3 {
+		width: 400px;
+		font-size: 24px;
+	}
+
+	.col-12.text-center p {
+		width: 450px;
+		font-size: 14px;
+	}
+
+	.card-price {
+		margin: auto;
+		margin-bottom: 25px;
+	}
+
+	.img-tentangpenulis {
+		width: 270px;
+		height: auto;
+	}
+
+	#tentangpenulis h2{
+		font-size: 12px;
+	}
+
+	#tentangpenulis h3{
+		width: 250px;
+		font-size: 24px;
+	}
+
+	#tentangpenulis p{
+		width: 250px;
+		font-size: 14px;
+	}
+
+	#testimoni h2{
+		font-size: 12px;
+	}
+
+	#testimoni h3{
+		width: 250px;
+		font-size: 24px;
+	}
+
+
+	#belibuku h3 {
+		width: 250px;
+		font-size: 24px;
+	}
+
+	#belibuku p {
+		width: 250px;
+		font-size: 14px;
+	}
+
+	.sudahterjual2 {
+		font-size: 12px;
+	}
+
+	.jumlahterjual {
+		font-size: 16px;
+	}
+
+	#footer h3 {
+		width: 250px;
+		font-size: 24px;
+		margin-left: 15px;
+	}
+
+	#footer p {
+		width: 250px;
+		font-size: 14px;
+		margin-left: 15px;
+	}
+
+	h6 {
+		width: 250px;
+		font-size: 14px;
+		margin-left: 15px;
+	}
+
+	.img-logo-footer {
+		margin-left: 15px;
+	}
+
+	.button-footer {
+		margin-left: 25px;
+	}
+
+	.button-bantuan{
+		margin-bottom: 15px;
+	}
+
+	.list-footer li {
+		margin-left: 50px;
+	}
 }
 
 @media screen and (max-width : 350px) {
