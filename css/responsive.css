@@ -3,20 +3,9 @@
 }
 
 @media screen and (max-width : 576px) {
-	
+
 }
 
 @media screen and (max-width : 350px) {
-	.hero-tagline h1 {
-		line-height: 52px;
-		color: #000;
-		font-size: 20PX;
-
-	}
-
-	.img-hero {
-		width: 75%;
-		height: auto;
-
-	}
+	
 }
